@@ -16,6 +16,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
+      - run: npm ci
       - run: npm run format
       - run: git status
       # commit any changed files
