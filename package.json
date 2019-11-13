@@ -1,0 +1,24 @@
+{
+  "name": "gh-action-with-prettier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/gh-action-with-prettier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahmutov/gh-action-with-prettier/issues"
+  },
+  "homepage": "https://github.com/bahmutov/gh-action-with-prettier#readme",
+  "devDependencies": {
+    "prettier": "1.19.1"
+  }
+}
