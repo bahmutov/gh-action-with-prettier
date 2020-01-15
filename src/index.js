@@ -1,1 +1,9 @@
-const o = { foo: 'bar' }
+const o = {
+
+
+
+  foo:'bar'
+
+
+
+}
