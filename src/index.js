@@ -1,3 +1,7 @@
 const o = {
-  foo: 'bar',
+  
+  
+  
+  
+  foo: 'bar'
 }
